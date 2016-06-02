@@ -1,0 +1,11 @@
+{
+    "name": "biberltd/3pay-bundle",
+    "description": "Micro Payment PHP SDK for SOAP API",
+    "authors": [
+        {
+            "name": "ssuleymanaylakBoDev",
+            "email": "suleyman.aylak@bodevoffice.com"
+        }
+    ],
+    "require": {}
+}
