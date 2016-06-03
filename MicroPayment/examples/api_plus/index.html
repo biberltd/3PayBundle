@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>API Plus | 3Pay</title>
+</head>
+<body>
+<div style="margin:5px 20px;">
+    <form name="api_plus" method="post" action="api.php">
+        <h1>Api Plus</h1>
+        <div style="float:left; width: 250px;">
+            <h3>Type : </h3>
+            <input type="radio" name="payment_type" value="2"> <label>Subscription </label><br/><br/>
+            <input type="radio" name="payment_type" value="1" checked="checked"> <label>Single </label><br/><br/>
+        </div>
+        <div style="float: left;">
+            <div style="float: left;width: 300px;">
+                <h3>Product :</h3>
+                <label>Name : </label> <span>Demo Product</span><br/><br/>
+                <label>Price : </label> <input type="text" name="price" value="0.01" disabled="disabled"/><br/><br/>
+            </div>
+            <div style="float: left;padding-top: 55px;">
+                <label>Gsm : </label><input type="text" name="gsm" />
+                <input type="submit" value="Next"/><br/><br/>
+            </div>
+            <div style="clear: both"></div>
+        </div>
+        <div style="clear: both;"></div>
+    </form>
+</div>
+</body>
+</html>
