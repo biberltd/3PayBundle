@@ -10,6 +10,7 @@ namespace  MicroPayment\Model\Sale;
 use MicroPayment\Model\Shared\Input;
 use MicroPayment\Common\SaleResourceModel;
 
+
 class SaleWithConfirm extends SaleResourceModel
 {
     public function setInput(Input $input){

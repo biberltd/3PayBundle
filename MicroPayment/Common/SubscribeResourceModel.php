@@ -5,7 +5,7 @@ namespace  MicroPayment\Common;
  *
  * @version   0.1.0
  */
-use BaseResourceModel;
+use MicroPayment\Common\BaseResourceModel;
 
 class SubscribeResourceModel extends BaseResourceModel
 {

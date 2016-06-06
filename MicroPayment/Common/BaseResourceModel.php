@@ -5,10 +5,11 @@ namespace  MicroPayment\Common;
  *
  * @version   0.1.0
  */
-use BaseModel;
+use MicroPayment\Common\BaseModel;
 use MicroPayment\Core\SoapConnection;
 use MicroPayment\Validation\MicroPaymentErrorChecker;
 use MicroPayment\Model\Shared\Token;
+
 
 class BaseResourceModel extends BaseModel
 {

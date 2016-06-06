@@ -6,7 +6,7 @@ namespace  MicroPayment\Common;
  * @version   0.1.0
  */
 use MicroPayment\Model\Shared\Input;
-use BaseResourceModel;
+use MicroPayment\Common\BaseResourceModel;
 
 class SmsResourceModel extends BaseResourceModel
 {
