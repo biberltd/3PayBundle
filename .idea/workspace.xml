@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="953c2c31-f31e-423d-931e-f809fbd1eb11" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MicroPayment/examples/api_plus/api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MicroPayment/examples/api_plus/check.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MicroPayment/examples/api_plus/data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MicroPayment/examples/api_plus/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MicroPayment/examples/api_plus/result.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MicroPayment/examples/api_plus/timer.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MicroPayment/Common/BaseResourceModel.php" afterPath="$PROJECT_DIR$/MicroPayment/Common/BaseResourceModel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MicroPayment/Common/SaleResourceModel.php" afterPath="$PROJECT_DIR$/MicroPayment/Common/SaleResourceModel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MicroPayment/Common/SmsResourceModel.php" afterPath="$PROJECT_DIR$/MicroPayment/Common/SmsResourceModel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MicroPayment/Common/SubscribeResourceModel.php" afterPath="$PROJECT_DIR$/MicroPayment/Common/SubscribeResourceModel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MicroPayment/Model/Sale/SaleWithConfirm.php" afterPath="$PROJECT_DIR$/MicroPayment/Model/Sale/SaleWithConfirm.php" />
     </list>
     <ignored path="3PayBundle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,38 +27,6 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Input.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/MicroPayment/Model/Shared/Input.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-                  <folding>
-                    <element signature="e#109#143#0#PHP" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Token.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/MicroPayment/Model/Shared/Token.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="DeactivateSubscriber.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/MicroPayment/Model/Subscribe/DeactivateSubscriber.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="DeleteSubscriber.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/MicroPayment/Model/Subscribe/DeleteSubscriber.php">
               <provider selected="true" editor-type-id="text-editor">
@@ -81,16 +39,6 @@
           </file>
           <file leaf-file-name="SelectSubscriber.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/MicroPayment/Model/Subscribe/SelectSubscriber.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SaleWithTicket.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/MicroPayment/Model/Sale/SaleWithTicket.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="150">
                   <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
@@ -119,11 +67,61 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="StartSaleWithOtp.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StartSaleWithOtp.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/MicroPayment/Model/Sale/StartSaleWithOtp.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="150">
                   <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PaymentTypeId.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/PaymentTypeId.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ProductCategory.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/ProductCategory.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="OrderChannelId.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/OrderChannelId.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/composer.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -281,6 +279,7 @@
         <option value="$PROJECT_DIR$/MicroPayment/Common/SaleResourceModel.php" />
         <option value="$PROJECT_DIR$/MicroPayment/Model/Sale/SaleWithConfirm.php" />
         <option value="$PROJECT_DIR$/MicroPayment/Model/Shared/Input.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -568,18 +567,18 @@
       <updated>1464862972539</updated>
       <workItem from="1464862973822" duration="17128000" />
       <workItem from="1465191761609" duration="2093000" />
-      <workItem from="1465198099113" duration="9527000" />
+      <workItem from="1465198099113" duration="9642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28748000" />
+    <option name="totallyTimeSpent" value="28863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1680" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16849817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16849817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -672,21 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -784,30 +768,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/ActiveStatus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/OrderChannelId.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/PaymentTypeId.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/ProductCategory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
@@ -1033,6 +993,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/PaymentTypeId.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/ProductCategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MicroPayment/Enum/OrderChannelId.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
           <folding />
         </state>
       </provider>
